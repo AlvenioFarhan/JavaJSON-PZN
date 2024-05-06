@@ -1,0 +1,11 @@
+{
+  "firstName": "Alvenio",
+  "address": {
+    "street": "Tembalang",
+    "city": "Semarang",
+    "country": "Indonesia"
+  },
+  "lastName": "Farhan",
+  "married": false,
+  "age": 24
+}

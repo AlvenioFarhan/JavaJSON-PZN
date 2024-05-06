@@ -1,0 +1,13 @@
+package programmerzamannow.json;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JavaJsonPznApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JavaJsonPznApplication.class, args);
+	}
+
+}
